@@ -2,6 +2,12 @@
 
 Este arquivo guarda como o Claude deve agir sozinho nas tarefas do ClickUp, e serve de memória entre sessões (inclusive nos briefs automáticos agendados). Toda vez que uma nova autorização for dada em conversa, ela deve ser registrada aqui.
 
+## Formato de entrega do brief diário
+
+- O brief diário é entregue como **artefato HTML único e fixo** — sempre republicado na mesma URL, nunca criando um artefato novo a cada execução.
+- URL fixa: https://claude.ai/code/artifact/dfef0aa2-c398-44fb-8020-4a70033409e5
+- Definido em 2026-09-04 a pedido do Cadu (não queria um link novo por dia).
+
 ## Regra mãe
 
 Toda ação que eu tomar sozinho (fechar, remarcar, etc.) — **eu comunico depois de feita**, nunca em silêncio. O Cadu bate o olho no que foi feito e, se algo não fizer sentido, me avisa para eu reabrir ou não repetir aquele tipo de ação.
