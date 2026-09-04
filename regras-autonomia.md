@@ -4,9 +4,10 @@ Este arquivo guarda como o Claude deve agir sozinho nas tarefas do ClickUp, e se
 
 ## Formato de entrega do brief diário
 
-- O brief diário é entregue como **artefato HTML único e fixo** — sempre republicado na mesma URL, nunca criando um artefato novo a cada execução.
+- Nome do brief: **"Café com Cadu - Briefing Diário"** (definido em 2026-09-04).
+- Entregue como **artefato HTML único e fixo** — sempre republicado na mesma URL, nunca criando um artefato novo a cada execução.
 - URL fixa: https://claude.ai/code/artifact/dfef0aa2-c398-44fb-8020-4a70033409e5
-- Definido em 2026-09-04 a pedido do Cadu (não queria um link novo por dia).
+- Formato definido em 2026-09-04 a pedido do Cadu (não queria um link novo por dia).
 
 ## Regra mãe
 
