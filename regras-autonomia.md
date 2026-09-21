@@ -38,4 +38,14 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 
 ## Pendências abertas em aprovação (aguardando o Cadu confirmar antes de eu agir)
 
-_Nenhuma no momento._
+Atualizado no brief de 2026-09-21. Nada foi alterado sozinho — só sinalizado no brief.
+
+| Desde | Tarefa | Categoria | Situação |
+|---|---|---|---|
+| 2026-09-18 (brief) | [Sushi Vila Sônia — Cobrança dia 15](https://app.clickup.com/t/wdq3cz7ph8) | Cobrança | Atrasada, calculando juros — 6 dias vencida em 21/09. |
+| 2026-09-18 (brief) | [Dra. Yara Berti — Marcar reunião com o Google](https://app.clickup.com/t/wdq3czb3h8) | Fornecedor externo | Conta restrita por nicho de odontologia, parada desde 14/09. Mensagem pronta pro contato Guilherme, só falta enviar. |
+| 2026-09-21 (brief) | [Kenichi Sushi — Reunião interna: plano de ação](https://app.clickup.com/t/wdq3czb3hh) | Urgente + 2 responsáveis | 3 dias vencida. |
+| 2026-09-21 (brief) | [Nonno Gaúcho — Montar planejamento e estratégia](https://app.clickup.com/t/wdq3czb6wk) | Urgente + 2 responsáveis | 3 dias vencida; trava outras tarefas do cliente. |
+| 2026-09-18 (brief) | [Nonnas Paola Interlagos — Montar planejamento editorial](https://app.clickup.com/t/wdq3czb6q2) | Urgente + 2 responsáveis | Estava com 2 dias de atraso em 18/09, agora 5 dias. Segue sem definição de quem toca. |
+| 2026-09-21 (brief) | "Reels ou Feed da Franquia" (3 tarefas idênticas) | Ambíguo | Sem responsável, sem descrição, título indeciso entre dois formatos. |
+| 2026-09-21 (brief) | [Katsuro Carapicuíba — Caminho de entrada do grupo](https://app.clickup.com/t/wdq3cz8reb) + 4 artes do desconto de domingo | Ambíguo | Status "pausado" mas com prazo já vencido — não está claro se é pausa intencional. |
