@@ -42,25 +42,24 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 |---|---|---|
 | 2026-09-23 (brief) | [Sushi Vila Sônia — Cobrança dia 15](https://app.clickup.com/t/wdq3cz7ph8) | Status agora "pago". Sai da lista de pendências de cobrança. |
 | 2026-09-23 (brief) | [Dra. Yara Berti — Terminar edição dos criativos e colocar no ar](https://app.clickup.com/t/wdq3czbt4f) | Status agora "finalizado". Vale confirmar que a validação do CFO/CRO com a doutora ocorreu antes de publicar (a descrição original pedia isso) — essa conta já teve restrição por nicho (odontologia) antes. |
+| 2026-09-24 (brief) | [Kenichi Sushi — Subir criativo e iniciar a campanha de almoço](https://app.clickup.com/t/wdq3czbt4m) | Status agora "finalizado" (estava "em configuração"). Havia uma decisão de preço em aberto (R$ 89,90 a confirmar) e referência de Instagram "[A DEFINIR]" na descrição — vale confirmar rapidamente se isso foi decidido antes de fechar. |
 
 ## Pendências abertas em aprovação (aguardando o Cadu confirmar antes de eu agir)
 
-Atualizado no brief de 2026-09-23. Nada foi alterado sozinho — só sinalizado no brief.
+Atualizado no brief de 2026-09-24. Nada foi alterado sozinho — só sinalizado no brief.
 
 | Desde | Tarefa | Categoria | Situação |
 |---|---|---|---|
-| 2026-09-22 (brief) | [Ketheryn Silva — Emitir aditivo contratual de renovação e enviar](https://app.clickup.com/t/wdq3czbt7p) | Cliente externo | Venceu 22/09 09:00, segue sem emitir. Cliente já confirmou que não quer Google Ads agora — aditivo é só renovação, mensagem-modelo pronta na descrição. Achado novo: o cadastro do cliente ("Ketheryn Silva Make Up [tráfego]") mostra renovação vencida desde 10/04 — processo parece travado há ~5 meses. |
-| 2026-09-21 (brief) | [Kenichi Sushi — Reunião interna: plano de ação](https://app.clickup.com/t/wdq3czb3hh) | Urgente + 2 responsáveis | Reagendada para 22/09 16:15, mas venceu sem confirmação de que aconteceu. A descrição registra conflito de agenda (colidia com o Sebrae) nunca resolvido — precisa de nova data. |
-| 2026-09-21 (brief) | [Nonno Gaúcho — Montar planejamento e estratégia](https://app.clickup.com/t/wdq3czb6wk) | Urgente + 2 responsáveis | Status virou "pausado", mas o prazo é hoje 23/09 19h — contradição. Bloqueante para produção de conteúdo (já foi empurrada uma vez por falta desse planejamento, em 22/09). |
-| 2026-09-22 (brief) | [Kenichi Sushi — Subir criativo e iniciar campanha de almoço (tráfego pago)](https://app.clickup.com/t/wdq3czbt4m) | Urgente + 2 responsáveis | Avançou para "em configuração" mas segue vencida (venceu 22/09). Descrição tem decisão pendente: preço do almoço a confirmar (transcrição indicou R$ 89,90) e referência de Instagram "[A DEFINIR]". |
-| 2026-09-21 (brief) | "Reels ou Feed da Franquia" (3 tarefas idênticas) | Ambíguo | Sem responsável, sem descrição, formato indefinido entre Reels e Feed. Datas atualizadas: uma vence hoje 23/09, as outras 30/09 e 13/10. |
-| 2026-09-21 (brief) | [Katsuro Carapicuíba — 4 artes do desconto de domingo](https://app.clickup.com/t/wdq3cz8rea) | Ambíguo | Saiu de "pausado" para "em andamento", prazo agora 30/09. Arte 3 devia ir ao grupo fechado sexta 18/09 (já passou, sem confirmação de que ocorreu); Arte 4 vale sexta 25/09. |
+| 2026-09-22 (brief) | [Ketheryn Silva — Emitir aditivo contratual de renovação e enviar](https://app.clickup.com/t/wdq3czbt7p) | Cliente externo | Prazo pulou de 22/09 para hoje 24/09 sem mais nenhuma mudança — segue sem emitir. Cliente já confirmou que não quer Google Ads agora — aditivo é só renovação, mensagem-modelo pronta na descrição. Cadastro do cliente ("Ketheryn Silva Make Up [tráfego]") mostra renovação vencida desde 10/04 — processo parece travado há ~5 meses. |
+| 2026-09-21 (brief) | [Kenichi Sushi — Reunião interna: plano de ação](https://app.clickup.com/t/wdq3czb3hh) | Urgente + 2 responsáveis | Sem mudança desde 22/09 — venceu sem confirmação de que aconteceu. A descrição registra conflito de agenda (colidia com o Sebrae) nunca resolvido — precisa de nova data. |
+| 2026-09-21 (brief) | [Nonno Gaúcho — Montar planejamento e estratégia](https://app.clickup.com/t/wdq3czb6wk) | Urgente + 2 responsáveis | Status continua "pausado", mas o prazo rolou de novo para hoje (24/09) — contradição persistente. Bloqueante para produção de conteúdo (já foi empurrada por falta desse planejamento). |
+| 2026-09-21 (brief) | "Reels ou Feed da Franquia" (3 tarefas idênticas) | Ambíguo | Sem responsável, sem descrição, formato indefinido entre Reels e Feed. A que vencia 23/09 agora está atrasada; as outras seguem 30/09 e 13/10. |
+| 2026-09-21 (brief) | [Katsuro Carapicuíba — 4 artes do desconto de domingo](https://app.clickup.com/t/wdq3cz8rea) | Ambíguo | Sem mudança desde ontem: "em andamento", prazo 30/09. Arte 3 devia ir ao grupo fechado sexta 18/09 (já passou, sem confirmação); Arte 4 vale amanhã, sexta 25/09. |
 
-### Novos pontos de atenção sinalizados em 2026-09-23 (ainda não confirmados pelo Cadu)
+### Novos pontos de atenção sinalizados em 2026-09-24 (ainda não confirmados pelo Cadu)
 
 | Achado | Categoria | Situação |
 |---|---|---|
-| 6 tarefas "[PLANEJAMENTO] Cliente — em andamento" sem responsável (Cheirin Bão, Fino Sabor, VIP VAN, Sushi Vila Sônia, Katsuro Carapicuíba, Cadu Marketing) | Ambíguo | Status diz "em andamento" mas nenhuma tem assignee no ClickUp — não dá para saber quem está tocando. |
-| "Postar stories de segunda" (lista Stories Diários) | Ambíguo | Status "vencido" mas sem due_date preenchida e sem responsável — tarefa órfã, não dá pra saber há quanto tempo parada. |
-| Lead "Oxente! Tem cuscuz?" (Funil Back End) | Ambíguo | Status "sem resposta" não é claramente aberto nem fechado — decidir se marca como perdido ou insiste. |
-
+| Tarefas "[PLANEJAMENTO] Cliente — SET/OUT" sem responsável | Ambíguo | Confirmado ainda sem responsável hoje: Cheirin Bão, Fino Sabor, VIP VAN. As de Sushi Vila Sônia, Katsuro Carapicuíba e Cadu Marketing citadas em 23/09 não foram reencontradas com o mesmo padrão — pode já ter sido resolvido ou renomeado; vale confirmar se quiser certeza. |
+| "Postar stories de segunda" (lista Stories Diários) | Ambíguo | Sem mudança: status "vencido" mas sem due_date preenchida e sem responsável — tarefa órfã, não dá pra saber há quanto tempo parada. |
+| Lead "Oxente! Tem cuscuz?" (Funil Back End) | Ambíguo | Agora tem responsável (Thaís), mas status "sem resposta" continua sem indicar se está aberto ou fechado — decidir se marca como perdido ou insiste. |
