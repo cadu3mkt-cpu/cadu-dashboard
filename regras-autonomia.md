@@ -30,11 +30,13 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 |---|---|---|
 | 2026-09-03 | Fechar tarefas abertas da lista "Campanhas" (tráfego pago) | Cadu criou um artefato separado para acompanhar campanhas de tráfego; essa lista do ClickUp virou redundante. Posso marcar como "finalizado" sem perguntar de novo. |
 
+**Nota de 2026-09-28:** no brief de hoje encontrei várias tarefas *novas* e abertas na lista "Campanhas" (ex: Kenichi — levantar mensagens/investimento dos envelopes, Nonnas Vila Andrade/Interlagos — subir campanhas, Fino Sabor — puxar mensagens do Meta). Diferente do lote aprovado em 2026-09-03 (que eram entradas de acompanhamento de métrica, tipo "Visitas no Perfil", "Engajamento"), essas parecem tarefas de execução real (ações a fazer), não rastreamento redundante. Por segurança, **não apliquei o padrão aprovado a elas** — ficaram listadas como atrasadas normais no brief. Se o padrão também deve valer para esse tipo de tarefa, me confirme.
+
 ## Histórico de ações autônomas (fechei/alterei sozinho e já avisei em chat)
 
 | Data | Tarefa(s) | Ação | Motivo |
 |---|---|---|---|
-| 2026-09-03 | 9 tarefas abertas da lista "Campanhas" (Kenichi Sushi Mooca - Desafio dos Dados, Cadu Marketing - Google Ads Campanha Site Form, Katsuro Carapicuíba - Visitas no Perfil, Vip Van - Meta Ads, Vip Van - Google Ads, Anúncio Dark Post Noivas x2, Mensagens Noivas, Kethryn Silva Engajamento Noivas) | Status alterado para "finalizado" | Redundantes com o novo artefato de acompanhamento de tráfego pago criado pelo Cadu |
+| 2026-09-03 | 9 tarefas abertas da lista "Campanhas" (Kenichi Sushi - Desafio dos Dados, Cadu Marketing - Google Ads Campanha Site Form, Katsuro Carapicuíba - Visitas no Perfil, Vip Van - Meta Ads, Vip Van - Google Ads, Anúncio Dark Post Noivas x2, Mensagens Noivas, Kethryn Silva Engajamento Noivas) | Status alterado para "finalizado" | Redundantes com o novo artefato de acompanhamento de tráfego pago criado pelo Cadu |
 
 ## Resolvido desde o último brief (não fui eu — só constatei no ClickUp)
 
@@ -44,24 +46,27 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 | 2026-09-23 (brief) | [Dra. Yara Berti — Terminar edição dos criativos e colocar no ar](https://app.clickup.com/t/wdq3czbt4f) | Status agora "finalizado". Vale confirmar que a validação do CFO/CRO com a doutora ocorreu antes de publicar (a descrição original pedia isso) — essa conta já teve restrição por nicho (odontologia) antes. |
 | 2026-09-24 (brief) | [Kenichi Sushi — Subir criativo e iniciar a campanha de almoço](https://app.clickup.com/t/wdq3czbt4m) | Status agora "finalizado" (estava "em configuração"). Havia uma decisão de preço em aberto (R$ 89,90 a confirmar) e referência de Instagram "[A DEFINIR]" na descrição — vale confirmar rapidamente se isso foi decidido antes de fechar. |
 | 2026-09-25 (brief) | [VIP VAN — Google Ads: corrigir campanha de casamentos e criar anúncios no padrão do Hopi Hari](https://app.clickup.com/t/wdq3czb6r0) | Status agora "finalizado" (estava "em configuração", 8 dias atrasada no brief de 24/09). |
+| 2026-09-28 (brief) | "Reels ou Feed da Franquia" (uma das 3 tarefas idênticas sinalizadas em 2026-09-21) | Não aparece mais como tarefa aberta — restam 2 (vencimento 30/09 e 13/10), ambas ainda sem responsável. Presumo que foi concluída ou removida entre 25/09 e 28/09; não confirmei o motivo. |
 
 ## Pendências abertas em aprovação (aguardando o Cadu confirmar antes de eu agir)
 
-Atualizado no brief de 2026-09-25. Nada foi alterado sozinho — só sinalizado no brief.
+Atualizado no brief de 2026-09-28.
 
 | Desde | Tarefa | Categoria | Situação |
 |---|---|---|---|
-| 2026-09-22 (brief) | [Ketheryn Silva — Emitir aditivo contratual de renovação e enviar](https://app.clickup.com/t/wdq3czbt7p) | Cliente externo | Sem mudança — venceu de novo (24/09) sem ser emitido. Cliente já confirmou que não quer Google Ads agora — aditivo é só renovação, mensagem-modelo pronta na descrição. Cadastro do cliente ("Ketheryn Silva Make Up [tráfego]") mostra renovação vencida desde 10/04 — processo parece travado há ~5 meses. |
-| 2026-09-21 (brief) | [Kenichi Sushi — Reunião interna: plano de ação](https://app.clickup.com/t/wdq3czb3hh) | Urgente + 2 responsáveis | Sem mudança — venceu há 3 dias (era pra acontecer 22/09) sem confirmação de que aconteceu. A descrição registra conflito de agenda (colidia com o Sebrae) nunca resolvido — precisa de nova data. |
-| 2026-09-21 (brief) | [Nonno Gaúcho — Montar planejamento e estratégia](https://app.clickup.com/t/wdq3czb6wk) | Urgente + 2 responsáveis | Status continua "pausado". O prazo, que vinha rolando dia a dia, venceu ontem (24/09) e ficou pra trás — bloqueante pra produção de conteúdo do cliente. |
-| 2026-09-21 (brief) | "Reels ou Feed da Franquia" (3 tarefas idênticas) | Ambíguo | Sem responsável, sem descrição, formato indefinido entre Reels e Feed. A que vencia 23/09 está atrasada há 2 dias; as outras seguem 30/09 e 13/10. |
-| 2026-09-21 (brief) | [Katsuro Carapicuíba — 4 artes do desconto de domingo](https://app.clickup.com/t/wdq3cz8rea) | Ambíguo | Sem mudança: "em andamento", prazo 30/09. Arte 3 devia ter ido ao grupo fechado sexta 18/09 (sem confirmação de publicação); hoje (25/09, sexta) é o dia marcado pra Arte 4 — vale checar se a 3 saiu antes de soltar a 4. |
+| 2026-09-22 (brief) | [Ketheryn Silva — Emitir aditivo contratual de renovação e enviar](https://app.clickup.com/t/wdq3czbt7p) | Cliente externo | Sem mudança — segue sem ser emitido, vencida desde 24/09 (agora 4 dias). Mensagem-modelo pronta na descrição. Renovação do cadastro do cliente vencida desde 10/04 — processo parece travado há ~5 meses e meio. |
+| 2026-09-21 (brief) | [Kenichi Sushi — Reunião interna: plano de ação](https://app.clickup.com/t/wdq3czb3hh) | Urgente + 2 responsáveis | Sem mudança — vencida desde 22/09 (agora 6 dias), sem confirmação de que aconteceu nem nova data marcada. Conflito de agenda original (colidia com o Sebrae) nunca resolvido. |
+| 2026-09-21 (brief) | [Nonno Gaúcho — Montar planejamento e estratégia](https://app.clickup.com/t/wdq3czb6wk) | Urgente + 2 responsáveis | Sem mudança — status "pausado", prazo vencido desde 24/09 (agora 4 dias), bloqueante pra produção de conteúdo do cliente. |
+| 2026-09-21 (brief) | "Reels ou Feed da Franquia" (2 tarefas idênticas restantes, era 3) | Ambíguo | Sem responsável, sem descrição, formato indefinido entre Reels e Feed. Vencimentos agora 30/09 e 13/10 (a terceira, que vencia 23/09, saiu da lista — ver "Resolvido"). |
+| 2026-09-21 (brief) | [Katsuro Carapicuíba — 4 artes do desconto de domingo](https://app.clickup.com/t/wdq3cz8rea) | Ambíguo | "Em andamento", prazo final 30/09. Artes 1–3 (04, 11, 18/09) deveriam ter ido ao grupo fechado; a 4ª, prevista para 25/09, segue sem confirmação de publicação — agora 3 dias atrasada. |
+| 2026-09-28 (brief) | 29 lançamentos de cobrança com status "cancelado" de clientes que já encerraram contrato (Doce Planta, DR. Kleber, Gensho, Natsumi, KATSURO Osasco, Yato, Yazu, 43 Japa) nas listas Cobranças dia 05/07/10/12 | Cobrança | Achado novo — nenhum está marcado "pago", mas também não são cobranças reais em aberto (clientes já saíram). Precisa decisão: arquivar em lote, excluir, ou manter como está. Nada foi alterado. |
 
 ### Novos pontos de atenção sinalizados em 2026-09-25 (ainda não confirmados pelo Cadu)
 
 | Achado | Categoria | Situação |
 |---|---|---|
-| Conflito de agenda às 14h: "Reunião semanal de métricas — Reportei" × "Alinhamento mensal - Cheirin Bão & Cadu Mkt" | Cliente externo | Os dois eventos do Google Calendar estão marcados para o mesmo horário (14:00–15:00) hoje. Não remarquei nenhum dos dois — precisa decidir qual mantém e remarcar o outro. |
-| Tarefas "[PLANEJAMENTO] Cliente — SET/OUT" sem responsável | Ambíguo | Confirmado ainda sem responsável hoje: Cheirin Bão, Fino Sabor, VIP VAN. |
+| Tarefas "[PLANEJAMENTO] Cliente — SET/OUT" (na prática nomeadas "AGO/SET 2026") sem responsável | Ambíguo | Confirmado novamente em 2026-09-28: ainda sem responsável — Cheirin Bão (vence 10/10), Fino Sabor (vence 23/10), VIP VAN (vence 30/09, amanhã). Em contraste, os planejamentos SET/OUT de Nonnas Paola Interlagos e Vila Andrade já têm Cadu+Thaís atribuídos. |
 | "Postar stories de segunda" (lista Stories Diários) | Ambíguo | Sem mudança: status "vencido" mas sem due_date preenchida e sem responsável — tarefa órfã, não dá pra saber há quanto tempo parada. |
-| Lead "Oxente! Tem cuscuz?" (Funil Back End) | Ambíguo | Continua com responsável (Thaís), mas status "sem resposta" não indica se está aberto ou fechado — decidir se marca como perdido ou insiste. |
+| Lead "Oxente! Tem cuscuz?" (Funil Back End) | Ambíguo | Sem mudança: responsável agora confirmado como Thaís, mas status "sem resposta" continua sem indicar se está aberto ou fechado — decidir se marca como perdido ou insiste. |
+
+*(O conflito de agenda das 14h sinalizado em 2026-09-25 entre "Reunião semanal de métricas — Reportei" e "Alinhamento mensal - Cheirin Bão" não se repetiu no brief de 2026-09-28 — a tarefa do Reportei agora está com vencimento em 02/10, fora do escopo do dia. Vale conferir a agenda daquele dia quando chegar mais perto.)*
