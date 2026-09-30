@@ -39,6 +39,7 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 | 2026-09-03 | 9 tarefas abertas da lista "Campanhas" (Kenichi Sushi - Desafio dos Dados, Cadu Marketing - Google Ads Campanha Site Form, Katsuro Carapicuíba - Visitas no Perfil, Vip Van - Meta Ads, Vip Van - Google Ads, Anúncio Dark Post Noivas x2, Mensagens Noivas, Kethryn Silva Engajamento Noivas) | Status alterado para "finalizado" | Redundantes com o novo artefato de acompanhamento de tráfego pago criado pelo Cadu |
 
 *2026-09-29: nenhuma ação autônoma no brief de hoje.*
+*2026-09-30: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia; brief republicado no artefato fixo.*
 
 ## Resolvido desde o último brief (não fui eu — só constatei no ClickUp)
 
@@ -66,6 +67,18 @@ Atualizado no brief de 2026-09-29.
 | 2026-09-21 (brief) | "Reels ou Feed da Franquia" (2 tarefas idênticas restantes) | Ambíguo | Sem responsável, sem descrição, formato indefinido. Vencimentos 30/09 e 13/10. |
 | 2026-09-21 (brief) | [Katsuro Carapicuíba — 4 artes do desconto de domingo](https://app.clickup.com/t/wdq3cz8rea) | Ambíguo | "Em andamento", prazo final 30/09 (amanhã). A 4ª arte, prevista para 25/09, segue sem confirmação de publicação. |
 | 2026-09-28 (brief) | 29 lançamentos de cobrança com status "cancelado" de clientes que já encerraram contrato (Doce Planta, DR. Kleber, Gensho, Natsumi, KATSURO Osasco, Yato, Yazu, 43 Japa) nas listas Cobranças dia 05/07/10/12 | Cobrança | Sem mudança. Precisa decisão: arquivar em lote, excluir, ou manter. Nada foi alterado. |
+
+### Sugestões de definição feitas em 2026-09-30 (só sugeridas, nada escrito no ClickUp)
+
+- [Reels - Trend: Quanto custa uma limpeza dentária?](https://app.clickup.com/t/wdq3czan90): sem descrição. Sugerido mostrar o que inclui a limpeza e convidar para avaliação, sem divulgar preço (regra CFO/CRO).
+- [Reels: Cliente me olhando](https://app.clickup.com/t/wdq3czam90): sem responsável e sem descrição. Sugerido atribuir à Thaís e gravar junto da produção do Cheirin Bão.
+- Planejamentos SET/OUT sem dono ou com nome desatualizado (VIP VAN, Cheirin Bão, Fino Sabor, Cadu Marketing FEV/MAR, Katsuro JUN/JUL).
+
+### Constatado em 2026-09-30
+
+- Fino Sabor reunião com sócios (29/09 19:30), Sushi Masters (29/09) e comissão da Alessandra (29/09 18:00) seguem abertas no ClickUp; perguntado ao Cadu se ocorreram.
+- [Cheirin Bão — Produção audiovisual](https://app.clickup.com/t/wdq3czbwc7): limite 30/09 sem data confirmada (cliente externo).
+- 4 dos 5 pares de duplicadas de 28/09 continuam abertos; aguardando o Cadu escolher a lista.
 
 ### Sugestões de definição feitas em 2026-09-29 (só sugeridas, nada escrito no ClickUp)
 
