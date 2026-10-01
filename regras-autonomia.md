@@ -40,6 +40,7 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 
 *2026-09-29: nenhuma ação autônoma no brief de hoje.*
 *2026-09-30: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia; brief republicado no artefato fixo.*
+*2026-10-01: nenhuma ação autônoma no brief de hoje. Agenda: só Prospera Club 19h. Brief republicado no artefato fixo.*
 
 ## Resolvido desde o último brief (não fui eu — só constatei no ClickUp)
 
@@ -94,3 +95,11 @@ Atualizado no brief de 2026-09-29.
 | Lead "Oxente! Tem cuscuz?" (Funil Back End) | Ambíguo | Sem mudança: responsável Thaís, status "sem resposta" — decidir se marca como perdido ou insiste. |
 
 *(A reunião semanal de métricas no Reportei está com vencimento em 02/10; conferir a agenda daquele dia quando chegar mais perto. O conflito de 14h com o Alinhamento mensal do Cheirin Bão sinalizado em 2026-09-25 não se repetiu.)*
+
+### Constatado em 2026-10-01
+
+- Sushi Masters e reunião com o Nauaki agora com status "complete" (não fui eu). Comissão da Alessandra segue "to do", vencida desde 29/09.
+- Reunião com sócios do Fino Sabor é terça 06/10 19h30 (ainda sem evento no Calendar).
+- Duplicadas de 28/09: restam abertas "Avaliar as outras casas" (2 listas) e "Imagem do Seu Ayrton" (CS); os demais pares não aparecem mais abertos.
+- Novas: Katsuro Carapicuíba — Renovação de contrato (urgente, vence 01/10, sem descrição, aguardando Cadu/Thaís confirmar andamento).
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas (sem descrição), limpeza dentária da Dra. Yara (sem preço), planejamentos sem dono/nome desatualizado, Sebrae (fazer antes do encontro de 02/10).
