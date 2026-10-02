@@ -41,6 +41,7 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 *2026-09-29: nenhuma ação autônoma no brief de hoje.*
 *2026-09-30: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia; brief republicado no artefato fixo.*
 *2026-10-01: nenhuma ação autônoma no brief de hoje. Agenda: só Prospera Club 19h. Brief republicado no artefato fixo.*
+*2026-10-02: nenhuma ação autônoma no brief de hoje. Agenda: Sebrae 10h (Morumbi Town) e Reportei 14h. Brief republicado no artefato fixo.*
 
 ## Resolvido desde o último brief (não fui eu — só constatei no ClickUp)
 
@@ -103,3 +104,11 @@ Atualizado no brief de 2026-09-29.
 - Duplicadas de 28/09: restam abertas "Avaliar as outras casas" (2 listas) e "Imagem do Seu Ayrton" (CS); os demais pares não aparecem mais abertos.
 - Novas: Katsuro Carapicuíba — Renovação de contrato (urgente, vence 01/10, sem descrição, aguardando Cadu/Thaís confirmar andamento).
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas (sem descrição), limpeza dentária da Dra. Yara (sem preço), planejamentos sem dono/nome desatualizado, Sebrae (fazer antes do encontro de 02/10).
+
+### Constatado em 2026-10-02
+
+- Comissão da Alessandra agora "complete" e cópia de "Avaliar as outras casas" em Campanhas "finalizado" (não fui eu). Mentoria HS Marketing de 01/10 ficou "cancelado / adiado".
+- Conflito de horário (ainda não resolvido): Calendar tem Sebrae (4º encontro, Morumbi Town) às 10h–11h30; a tarefa do ClickUp diz 18h. Tarefa "Ver na plataforma do Sebrae" está "cancelado / adiado". Nada alterado.
+- Katsuro — Renovação de contrato: status agora "agendando renovação", vencida desde 01/10, sem descrição (cliente externo, só avisar).
+- Ketheryn — aditivo de renovação: "aguardando cliente", vencido desde 24/09 (cliente externo, só avisar).
+- Sugestões de definição (só sugeridas): sorteados de agosto das Nonnas (sem descrição), gravação dos 2 vídeos institucionais (definir o dia), planejamentos sem dono (VIP VAN, Cheirin Bão, Fino Sabor, Sushi Vila Sônia JUN/JUL 2025).
