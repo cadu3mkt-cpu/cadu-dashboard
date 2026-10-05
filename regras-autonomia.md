@@ -42,6 +42,7 @@ Posso agir sozinho (fechar tarefa redundante, remarcar prazo vencido de rotina i
 *2026-09-30: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia; brief republicado no artefato fixo.*
 *2026-10-01: nenhuma ação autônoma no brief de hoje. Agenda: só Prospera Club 19h. Brief republicado no artefato fixo.*
 *2026-10-02: nenhuma ação autônoma no brief de hoje. Agenda: Sebrae 10h (Morumbi Town) e Reportei 14h. Brief republicado no artefato fixo.*
+*2026-10-05: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia. Brief republicado no artefato fixo.*
 
 ## Resolvido desde o último brief (não fui eu — só constatei no ClickUp)
 
@@ -112,3 +113,10 @@ Atualizado no brief de 2026-09-29.
 - Katsuro — Renovação de contrato: status agora "agendando renovação", vencida desde 01/10, sem descrição (cliente externo, só avisar).
 - Ketheryn — aditivo de renovação: "aguardando cliente", vencido desde 24/09 (cliente externo, só avisar).
 - Sugestões de definição (só sugeridas): sorteados de agosto das Nonnas (sem descrição), gravação dos 2 vídeos institucionais (definir o dia), planejamentos sem dono (VIP VAN, Cheirin Bão, Fino Sabor, Sushi Vila Sônia JUN/JUL 2025).
+
+### Constatado em 2026-10-05
+
+- Cobrança Katsuro Carap. (dia 05) "a vencer", vence hoje (lista de Cobrança, só aviso). Renovação de contrato do Katsuro segue "agendando renovação", vencida desde 01/10.
+- Reunião Fino Sabor com sócios amanhã 06/10 19h30, ainda sem evento no Calendar. Ketheryn (aditivo) segue "aguardando cliente", vencido desde 24/09.
+- Sebrae/Reportei de 02/10 e comissão da Alessandra não aparecem mais abertos (não fui eu).
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas (sem descrição, vence hoje), dia da gravação dos 2 vídeos institucionais (venceu 02/10), planejamentos sem dono (VIP VAN, Cheirin Bão, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
