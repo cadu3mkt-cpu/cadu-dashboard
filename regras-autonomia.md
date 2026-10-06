@@ -120,3 +120,13 @@ Atualizado no brief de 2026-09-29.
 - Reunião Fino Sabor com sócios amanhã 06/10 19h30, ainda sem evento no Calendar. Ketheryn (aditivo) segue "aguardando cliente", vencido desde 24/09.
 - Sebrae/Reportei de 02/10 e comissão da Alessandra não aparecem mais abertos (não fui eu).
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas (sem descrição, vence hoje), dia da gravação dos 2 vídeos institucionais (venceu 02/10), planejamentos sem dono (VIP VAN, Cheirin Bão, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
+
+*2026-10-06: nenhuma ação autônoma no brief de hoje. Agenda: Produção de conteúdo Yara Berti 13h30–16h30. Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-06
+
+- Reunião Fino Sabor com sócios hoje 19h30, ainda sem evento no Calendar (descrição pede confirmar horário 20h e local Vila Olímpia).
+- Katsuro Carapicuíba: cobrança dia 05 "a vencer" venceu ontem (só aviso); nova cobrança de 05/11 criada. Peça do refrigerante à vontade (05 a 11/10) urgente, vence hoje 10h (cliente ativo, 2 responsáveis, só aviso). Renovação de contrato segue "agendando renovação".
+- Lote de tarefas novas de 05/10 (Kenichi, Nonno, Nonnas, Yara) vencido ontem e ainda aberto; Nonno cardápio (cliente externo) e giz/brinde Nonnas (fornecedor) só avisados.
+- Limite diário de chamadas do ClickUp esgotado durante o brief; li só a descrição da peça do Katsuro.
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas, Reels sem prazo (Nonnas Interlagos, trend desenhada), "Postar no grupo Katsuro Lovers" sem prazo/descrição, planejamentos sem dono (VIP VAN, Cheirin Bão, Fino Sabor, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
