@@ -130,3 +130,15 @@ Atualizado no brief de 2026-09-29.
 - Lote de tarefas novas de 05/10 (Kenichi, Nonno, Nonnas, Yara) vencido ontem e ainda aberto; Nonno cardápio (cliente externo) e giz/brinde Nonnas (fornecedor) só avisados.
 - Limite diário de chamadas do ClickUp esgotado durante o brief; li só a descrição da peça do Katsuro.
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): sorteados de agosto das Nonnas, Reels sem prazo (Nonnas Interlagos, trend desenhada), "Postar no grupo Katsuro Lovers" sem prazo/descrição, planejamentos sem dono (VIP VAN, Cheirin Bão, Fino Sabor, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
+
+*2026-10-07: nenhuma ação autônoma no brief de hoje. Agenda: Produção de conteúdo Katsuro 12h–16h e gravação Kenichi 19h–20h30. Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-07
+
+- Cobrança Katsuro Carap. (dia 05) agora "pago" (não fui eu). Katsuro — Renovação de contrato agora "fim de contrato", urgente, vence amanhã (cliente externo, só aviso).
+- Kenichi: tarefa do termo de imagem assinado está "cancelado / adiado", mas o convite da gravação de hoje (19h) exige o termo antes de gravar; caderno de 3 colunas e reunião de quarta também "cancelado / adiado". Roteiro da gravação segue "para fazer" (urgente, venceu 06/10), embora o convite diga "roteiro feito na terça". Só avisado.
+- Fino Sabor — reunião com os sócios (06/10 19h30) segue "pendente" sem evento no Calendar; perguntado se aconteceu.
+- Peça do refrigerante do Katsuro (urgente, cliente ativo, 2 responsáveis) e brinde das Nonnas (fornecedor): vencidas ontem, só avisadas.
+- Nonno: arte do cardápio com o Samuel "cancelado / adiado"; confirmar volta do dono segue pendente.
+- Leitura do ClickUp limitada às primeiras 100 tarefas por consulta; páginas seguintes não lidas.
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título/responsável, Reels sem prazo (Nonnas Interlagos, "Motivos para voltar", Bastidores do buffet, trend desenhada), "Postar no grupo Katsuro Lovers", planejamentos sem dono (VIP VAN, Cheirin Bão, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
