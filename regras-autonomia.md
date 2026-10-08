@@ -142,3 +142,13 @@ Atualizado no brief de 2026-09-29.
 - Nonno: arte do cardápio com o Samuel "cancelado / adiado"; confirmar volta do dono segue pendente.
 - Leitura do ClickUp limitada às primeiras 100 tarefas por consulta; páginas seguintes não lidas.
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título/responsável, Reels sem prazo (Nonnas Interlagos, "Motivos para voltar", Bastidores do buffet, trend desenhada), "Postar no grupo Katsuro Lovers", planejamentos sem dono (VIP VAN, Cheirin Bão, Sushi Vila Sônia JUN/JUL 2025, Cadu Marketing FEV/MAR).
+
+*2026-10-08: nenhuma ação autônoma no brief de hoje. Agenda: Sebrae, etapa Compartilhar (dia inteiro). Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-08
+
+- Kenichi: gravação de 07/10 está "complete"; briefing do salão segue pendente (urgente, venceu 06/10) e termo de imagem "cancelado / adiado". Roteiro da gravação ainda "para fazer" (possível fechar, só sugerido).
+- Katsuro — Renovação de contrato "fim de contrato", urgente, vence hoje (cliente externo, só aviso). Peça do refrigerante (urgente) segue "aguardando criativos", vencida desde 06/10.
+- Fino Sabor — reunião com os sócios segue "pendente" sem evento no Calendar; perguntado se aconteceu.
+- Leitura do ClickUp limitada à primeira página (100 tarefas) da consulta por prazo.
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título, Reels "Bastidores (processos e higiene)" sem cliente, sorteados de Agosto das Nonnas (sem descrição), planejamentos sem dono (Cheirin Bão, Sushi Vila Sônia).
