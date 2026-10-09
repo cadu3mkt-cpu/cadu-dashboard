@@ -152,3 +152,13 @@ Atualizado no brief de 2026-09-29.
 - Fino Sabor — reunião com os sócios segue "pendente" sem evento no Calendar; perguntado se aconteceu.
 - Leitura do ClickUp limitada à primeira página (100 tarefas) da consulta por prazo.
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título, Reels "Bastidores (processos e higiene)" sem cliente, sorteados de Agosto das Nonnas (sem descrição), planejamentos sem dono (Cheirin Bão, Sushi Vila Sônia).
+
+*2026-10-09: nenhuma ação autônoma no brief de hoje. Agenda: Reportei 14h–15h e "Pense comigo" (DMs) 17h–18h. Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-09
+
+- Katsuro — Renovação de contrato voltou para "agendando renovação" (ontem "fim de contrato"), urgente, venceu 08/10 (cliente externo, só aviso). Peça do refrigerante agora "finalizado" (não fui eu).
+- Fino Sabor — reunião com os sócios segue "pendente" sem evento no Calendar; Kenichi briefing do salão segue pendente e termo de imagem "cancelado / adiado". Aditivo da Ketheryn segue "aguardando cliente".
+- Tarefa do Reportei no ClickUp está "cancelado / adiado", mas o evento de hoje 14h está confirmado no Calendar.
+- Leitura do ClickUp limitada à primeira página (100 tarefas) por consulta.
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título, sorteados de Agosto das Nonnas (sem descrição), Reels sem prazo/cliente, planejamentos sem dono (Cheirin Bão, Sushi Vila Sônia, VIP VAN, Cadu Marketing FEV/MAR).
