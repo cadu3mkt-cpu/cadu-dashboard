@@ -162,3 +162,12 @@ Atualizado no brief de 2026-09-29.
 - Tarefa do Reportei no ClickUp está "cancelado / adiado", mas o evento de hoje 14h está confirmado no Calendar.
 - Leitura do ClickUp limitada à primeira página (100 tarefas) por consulta.
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): "CARROSSEL:" sem título, sorteados de Agosto das Nonnas (sem descrição), Reels sem prazo/cliente, planejamentos sem dono (Cheirin Bão, Sushi Vila Sônia, VIP VAN, Cadu Marketing FEV/MAR).
+
+*2026-10-12: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia. Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-12
+
+- Katsuro — Renovação de contrato agora "ativo" (não fui eu); peça do refrigerante segue "finalizado". Kenichi: briefing do salão e termo de imagem seguem "cancelado / adiado"; 3 campanhas pausadas e cobrança dos 4 itens da casa venceram 11/10 (cliente ativo, 2 responsáveis, só aviso).
+- Fino Sabor — reunião com os sócios agora com prazo 14/10 19h30 (nome diz "terça"), sem evento no Calendar. Nonno — confirmar volta do dono vence hoje 16h30 (cliente externo, só aviso). Cobranças dia 12 (Nonno, Nonnas VA e Interlagos) "a vencer"; Fino Sabor (Pizzas) dia 10 segue "a vencer" (só aviso).
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): VIP VAN com 2 pares de tarefas duplicadas (carrossel Aparecida, estático "Que horas a equipe precisa chegar"), sorteados de Agosto das Nonnas (sem descrição), contato com a hamburgueria do Sebrae, planejamentos sem dono (VIP VAN, Fino Sabor, Sushi Vila Sônia, Cadu Marketing FEV/MAR).
+- Leitura do ClickUp: consultas por prazo a partir de 28/09, tarefas sem prazo podem não aparecer.
