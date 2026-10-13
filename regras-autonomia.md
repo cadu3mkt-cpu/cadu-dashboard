@@ -171,3 +171,13 @@ Atualizado no brief de 2026-09-29.
 - Fino Sabor — reunião com os sócios agora com prazo 14/10 19h30 (nome diz "terça"), sem evento no Calendar. Nonno — confirmar volta do dono vence hoje 16h30 (cliente externo, só aviso). Cobranças dia 12 (Nonno, Nonnas VA e Interlagos) "a vencer"; Fino Sabor (Pizzas) dia 10 segue "a vencer" (só aviso).
 - Sugestões de definição (só sugeridas, nada escrito no ClickUp): VIP VAN com 2 pares de tarefas duplicadas (carrossel Aparecida, estático "Que horas a equipe precisa chegar"), sorteados de Agosto das Nonnas (sem descrição), contato com a hamburgueria do Sebrae, planejamentos sem dono (VIP VAN, Fino Sabor, Sushi Vila Sônia, Cadu Marketing FEV/MAR).
 - Leitura do ClickUp: consultas por prazo a partir de 28/09, tarefas sem prazo podem não aparecer.
+
+*2026-10-13: nenhuma ação autônoma no brief de hoje. Agenda do Google vazia. Brief republicado no artefato fixo.*
+
+### Constatado em 2026-10-13
+
+- Kenichi: briefing do salão e termo de imagem seguem "cancelado / adiado" (cliente ativo, 2 responsáveis, só aviso). Editar os 4 vídeos (urgente) venceu ontem.
+- Nonno — confirmar volta do dono (cliente externo) venceu ontem 16h30, ainda "em andamento". Fino Sabor — reunião com sócios amanhã 14/10 19h30, sem evento no Calendar. Aditivo da Ketheryn "aguardando cliente", prazo hoje.
+- Cobranças dia 10 (Fino Sabor) e dia 12 (Nonno, Nonnas VA e Interlagos) seguem "a vencer" (só aviso).
+- Sugestões de definição (só sugeridas, nada escrito no ClickUp): VIP VAN com tarefas duplicadas, sorteados de Agosto das Nonnas (sem descrição), planejamentos sem dono (Fino Sabor, Sushi Vila Sônia).
+- Leitura do ClickUp limitada à primeira página (100 tarefas) da consulta a partir de 05/10.
